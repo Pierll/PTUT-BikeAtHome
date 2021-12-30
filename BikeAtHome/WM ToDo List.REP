@@ -1,0 +1,9 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=F	;Analysis GUID
+LOCALIZATION_UTF8=4E8082F60E8A43C5B72D9011C087BC3B	Liste	\\VBoxSvr\Windev\BikeAtHome\Exe\Application Android\liste.FIC
+LOCALIZATION_UTF8=B63E8B395DEC4B0AAD3CF512AD21DBB5	Tache	\\VBoxSvr\Windev\BikeAtHome\Exe\Application Android\tache.FIC
+LOCALIZATION_UTF8=4E8082F60E8A43C5B72D9011C087BC3B	Session	\\VBoxSvr\Windev\BikeAtHome\Exe\Application Android\session.FIC
+LOCALIZATION_UTF8=B63E8B395DEC4B0AAD3CF512AD21DBB5	Item	\\VBoxSvr\Windev\BikeAtHome\Exe\Application Android\item.FIC
+LOCALIZATION_UTF8=4E8082F60E8A43C5B72D9011C087BC3B	Session	\\VBoxSvr\Windev\PTUT-BikeAtHome\BikeAtHome\Exe\Application Android\session.FIC
+LOCALIZATION_UTF8=B63E8B395DEC4B0AAD3CF512AD21DBB5	Item	\\VBoxSvr\Windev\PTUT-BikeAtHome\BikeAtHome\Exe\Application Android\item.FIC

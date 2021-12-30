@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Item		TAR	282	nouvelle taille enregistrement : 282
+Item	PuissanceI	RUB+		PuissanceI est une nouvelle rubrique

@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Session		TAR	277	nouvelle taille enregistrement : 277
+Session	Difficultee	RUB+		Difficultee est une nouvelle rubrique

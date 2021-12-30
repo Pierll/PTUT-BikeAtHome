@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Item		TAR	291	nouvelle taille enregistrement : 291
+Item	Frequence	RUB+		Frequence est une nouvelle rubrique
+Item	Duree	RUB+		Duree est une nouvelle rubrique

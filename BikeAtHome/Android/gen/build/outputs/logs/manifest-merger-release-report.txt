@@ -1,0 +1,333 @@
+-- Merging decision tree log ---
+manifest
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
+MERGED from [WD260Android.aar] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32ec94604769ef64b687e9b61199ebbb\WD260Android\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\User\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
+	package
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:117-153
+		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
+		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
+	android:versionName
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:154-183
+		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
+		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
+	xmlns:tools
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:184-208
+		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
+		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
+	android:installLocation
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:209-239
+application
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:240-3892
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:488-531
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:315-347
+	android:resizeableActivity
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:418-451
+	android:largeHeap
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:392-416
+	android:icon
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:348-391
+	android:usesCleartextTraffic
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:452-487
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:253-314
+activity#com.masociete.wm_todo_list.wdgen.GWDPBikeAtHome$WDLanceur
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:532-946
+	android:label
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:589-621
+	android:configChanges
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:691-793
+	android:theme
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:622-690
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:542-588
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:794-935
+action#android.intent.action.MAIN
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:809-860
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:817-858
+category#android.intent.category.LAUNCHER
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:860-919
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:870-917
+activity#com.masociete.wm_todo_list.wdgen.GWDFFEN_Liste$WDActiviteFenetre
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:946-1237
+	android:screenOrientation
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1157-1199
+	android:hardwareAccelerated
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1200-1235
+	android:configChanges
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1010-1119
+	android:theme
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1120-1156
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:956-1009
+activity#com.masociete.wm_todo_list.wdgen.GWDFFEN_Saisie_Seance$WDActiviteFenetre
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1237-1500
+	android:hardwareAccelerated
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1463-1498
+	android:configChanges
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1309-1418
+	android:theme
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1419-1462
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1247-1308
+activity#com.masociete.wm_todo_list.wdgen.GWDFFEN_Accueil$WDActiviteFenetre
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1500-1793
+	android:screenOrientation
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1713-1755
+	android:hardwareAccelerated
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1756-1791
+	android:configChanges
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1566-1675
+	android:theme
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1676-1712
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1510-1565
+uses-library#org.apache.http.legacy
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1793-1871
+	android:required
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1845-1869
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1807-1844
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1871-2100
+	tools:node
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2078-2098
+	xmlns:android
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1881-1939
+	android:theme
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2009-2077
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1940-2008
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2100-2465
+	tools:node
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2264-2284
+	android:label
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2231-2263
+	xmlns:android
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2110-2168
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2169-2230
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2285-2369
+action#android.intent.action.SEARCH
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2300-2353
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2308-2351
+meta-data#android.app.searchable
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2369-2454
+	android:resource
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2418-2452
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2380-2417
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2465-2691
+	tools:node
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2669-2689
+	android:authorities
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2620-2668
+	android:exported
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2595-2619
+	xmlns:android
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2475-2533
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2534-2594
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2691-2912
+	tools:node
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2890-2910
+	xmlns:android
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2701-2759
+	android:theme
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2833-2889
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2760-2832
+provider#androidx.core.content.FileProvider
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2912-3287
+	tools:node
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3153-3173
+	android:grantUriPermissions
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3118-3152
+	android:authorities
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3031-3092
+	android:exported
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3093-3117
+	xmlns:android
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2922-2980
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2981-3030
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3174-3276
+	android:resource
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3236-3274
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3185-3235
+receiver#fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3287-3485
+	tools:node
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3463-3483
+	android:exported
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3438-3462
+	xmlns:android
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3297-3355
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3356-3437
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3485-3555
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3494-3553
+meta-data#fr.pcsoft.first_window_name
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3555-3638
+	android:value
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3609-3636
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3566-3608
+meta-data#fr.pcsoft.first_window_name_tablet
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3638-3717
+	android:value
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3699-3715
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3649-3698
+meta-data#fr.pcsoft.splash_orientation_phone
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3717-3797
+	android:value
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3778-3795
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3728-3777
+meta-data#fr.pcsoft.splash_orientation_tablet
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3797-3878
+	android:value
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3859-3876
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3808-3858
+uses-sdk
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3892-3960
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3892-3960
+MERGED from [WD260Android.aar] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32ec94604769ef64b687e9b61199ebbb\WD260Android\AndroidManifest.xml:7:5-9:41
+MERGED from [WD260Android.aar] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32ec94604769ef64b687e9b61199ebbb\WD260Android\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\User\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\User\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3892-3960
+	android:targetSdkVersion
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3929-3958
+	android:minSdkVersion
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3902-3928
+		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
+		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
+supports-screens
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3960-4119
+	android:largeScreens
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4035-4062
+	android:smallScreens
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3978-4005
+	android:normalScreens
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4006-4034
+	android:xlargeScreens
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4063-4091
+	android:anyDensity
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4092-4117
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4119-4194
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4136-4192
