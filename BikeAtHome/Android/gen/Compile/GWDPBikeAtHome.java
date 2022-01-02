@@ -2,15 +2,15 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Projet
  * Classe Android : BikeAtHome
- * Date : 30/12/2021 21:28:30
+ * Date : 31/12/2021 15:07:53
  * Version de wdjava.dll  : 26.0.228.3
  */
 
 
-package com.masociete.wm_todo_list.wdgen;
+package com.fitdev.bikeathome.wdgen;
 
 
-import com.masociete.wm_todo_list.*;
+import com.fitdev.bikeathome.*;
 import fr.pcsoft.wdjava.core.types.*;
 import fr.pcsoft.wdjava.core.*;
 import fr.pcsoft.wdjava.core.application.*;
@@ -62,6 +62,24 @@ mWD_FEN_Saisie_Seance.checkOuverture();
 return mWD_FEN_Saisie_Seance;
 }
 
+ // FEN_Entrainement
+public GWDFFEN_Entrainement mWD_FEN_Entrainement = new GWDFFEN_Entrainement();
+ // accesseur de FEN_Entrainement
+public GWDFFEN_Entrainement getFEN_Entrainement()
+{
+mWD_FEN_Entrainement.checkOuverture();
+return mWD_FEN_Entrainement;
+}
+
+ // FEN_Saisie_Item
+public GWDFFEN_Saisie_Item mWD_FEN_Saisie_Item = new GWDFFEN_Saisie_Item();
+ // accesseur de FEN_Saisie_Item
+public GWDFFEN_Saisie_Item getFEN_Saisie_Item()
+{
+mWD_FEN_Saisie_Item.checkOuverture();
+return mWD_FEN_Saisie_Item;
+}
+
 
  // Constructeur de la classe GWDPBikeAtHome
 public GWDPBikeAtHome()
@@ -75,7 +93,10 @@ setPaletteCouleurGabarit(new int[] {0x394AE1, 0x26A0FA, 0x6DBC61, 0x85A800, 0xD2
 ajouterFenetre("FEN_Liste", mWD_FEN_Liste);
 ajouterFenetre("FEN_Accueil", mWD_FEN_Accueil);
 ajouterFenetre("FEN_Saisie_Seance", mWD_FEN_Saisie_Seance);
+ajouterFenetre("FEN_Entrainement", mWD_FEN_Entrainement);
+ajouterFenetre("FEN_Saisie_Item", mWD_FEN_Saisie_Item);
 
+ajouterRequeteWDR( new GWDRREQ_ListeIdItem() );
 
 
 }
@@ -98,15 +119,15 @@ WDAPIHF.hCreationSiInexistant(new WDChaineU("*"));
 ////////////////////////////////////////////////////////////////////////////
 // Déclaration des variables globales
 ////////////////////////////////////////////////////////////////////////////
-public String getVersionApplication(){ return "1.0.9.0";}
+public String getVersionApplication(){ return "1.0.12.0";}
 public String getNomSociete(){ return "PC SOFT";}
-public String getNomAPK(){ return "WM ToDo List";}
-public int getIdNomApplication(){return com.masociete.wm_todo_list.R.string.app_name;}
+public String getNomAPK(){ return "BikeAtHome";}
+public int getIdNomApplication(){return com.fitdev.bikeathome.R.string.app_name;}
 public boolean isModeAnsi(){ return false;}
 public boolean isAffectationTableauParCopie(){ return true;}
 public boolean isAssistanceAutoHFActive(){ return true;}
-public String getPackageRacine(){ return "com.masociete.wm_todo_list";}
-public int getIdIconeApplication(){ return com.masociete.wm_todo_list.R.drawable.i_c_o_n_e________2;}
+public String getPackageRacine(){ return "com.fitdev.bikeathome";}
+public int getIdIconeApplication(){ return com.fitdev.bikeathome.R.drawable.i_c_o_n_e________2;}
 public int getInfoPlateforme(EWDInfoPlateforme info)
 {
 switch(info)
@@ -173,15 +194,17 @@ return null;
 }
 protected void declarerRessources()
 {
-super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\ACTIVANDROID 4-HOLOLIGHT_BREAK.GIF",com.masociete.wm_todo_list.R.drawable.activandroid_4_hololight_break_4, "");
-super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\ACTIVANDROID 4-HOLOLIGHT_ROLLOVER.PNG",com.masociete.wm_todo_list.R.drawable.activandroid_4_hololight_rollover_5, "");
-super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\ACTIVANDROID 4-HOLOLIGHT_SELECT.PNG?E5_3NP_4_4_4_4",com.masociete.wm_todo_list.R.drawable.activandroid_4_hololight_select_6_np3_4_4_4_4_selector, "");
-super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_BTN_BRW.PNG?E5_3NP_8_8_8_8",com.masociete.wm_todo_list.R.drawable.material_design_indigo_btn_brw_7_np3_8_8_8_8_selector, "");
-super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_PICT_DETAIL_16_5.PNG",com.masociete.wm_todo_list.R.drawable.material_design_indigo_pict_detail_16_5_8, "");
-super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\IMAGES\\BG.PNG?_3NP_15_4_7_7",com.masociete.wm_todo_list.R.drawable.bg_9_np3_15_4_7_7, "");
-super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_EDT.PNG?E5_3NP_8_8_8_8",com.masociete.wm_todo_list.R.drawable.material_design_indigo_edt_11_np3_8_8_8_8_selector, "");
-super.ajouterFichierAssocie("Z:\\PTUT-BikeAtHome\\BikeAtHome\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_BTN_STD.PNG?E5_3NP_10_10_10_10",com.masociete.wm_todo_list.R.drawable.material_design_indigo_btn_std_13_np3_10_10_10_10_selector, "");
-super.ajouterFichierAssocie("Z:\\PTUT-BikeAtHome\\BikeAtHome\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_COMBO.PNG?E5_3NP_32_6_42_6",com.masociete.wm_todo_list.R.drawable.material_design_indigo_combo_14_np3_32_6_42_6_selector, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_COMBO.PNG?E5_3NP_32_6_42_6",com.fitdev.bikeathome.R.drawable.material_design_indigo_combo_15_np3_32_6_42_6_selector, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_EDT.PNG?E5_3NP_8_8_8_8",com.fitdev.bikeathome.R.drawable.material_design_indigo_edt_13_np3_8_8_8_8_selector, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_PROGBAR_BG.PNG",com.fitdev.bikeathome.R.drawable.material_design_indigo_progbar_bg_12, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_PROGBAR_ACTIV.PNG",com.fitdev.bikeathome.R.drawable.material_design_indigo_progbar_activ_11, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_BTN_STD.PNG?E5_3NP_10_10_10_10",com.fitdev.bikeathome.R.drawable.material_design_indigo_btn_std_10_np3_10_10_10_10_selector, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\IMAGES\\BG.PNG?_3NP_15_4_7_7",com.fitdev.bikeathome.R.drawable.bg_8_np3_15_4_7_7, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_PICT_DETAIL_16_5.PNG",com.fitdev.bikeathome.R.drawable.material_design_indigo_pict_detail_16_5_7, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\GABARITS\\WM\\210 MATERIAL DESIGN INDIGO\\MATERIAL DESIGN INDIGO_BTN_BRW.PNG?E5_3NP_8_8_8_8",com.fitdev.bikeathome.R.drawable.material_design_indigo_btn_brw_6_np3_8_8_8_8_selector, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\ACTIVANDROID 4-HOLOLIGHT_SELECT.PNG?E5_3NP_4_4_4_4",com.fitdev.bikeathome.R.drawable.activandroid_4_hololight_select_5_np3_4_4_4_4_selector, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\ACTIVANDROID 4-HOLOLIGHT_ROLLOVER.PNG",com.fitdev.bikeathome.R.drawable.activandroid_4_hololight_rollover_4, "");
+super.ajouterFichierAssocie("Z:\\PTUT-BIKEATHOME\\BIKEATHOME\\ACTIVANDROID 4-HOLOLIGHT_BREAK.GIF",com.fitdev.bikeathome.R.drawable.activandroid_4_hololight_break_3, "");
 }
 
 ////////////////////////////////////////////////////////////////////////////
@@ -191,8 +214,8 @@ public WDObjet afficherDialogue(int nIdQuestion, WDCallback callback, String... 
 {
 switch(nIdQuestion)
 {
-case 0 : return WDAPIDialogue.dialogue("Nom de la liste :", new String[] {"OK", "Annuler"} , new int[] {1, 2} , 0, 1, 1, "", 0, com.masociete.wm_todo_list.R.raw.question_1199005146486084846_1_10, callback, params);
-case 1 : return WDAPIDialogue.dialogue("Nom de la tâche :", new String[] {"OK", "Annuler"} , new int[] {1, 2} , 0, 1, 1, "", 0, com.masociete.wm_todo_list.R.raw.question_1199286325110721416_1_12, callback, params);
+case 0 : return WDAPIDialogue.dialogue("Nom de la liste :", new String[] {"OK", "Annuler"} , new int[] {1, 2} , 0, 1, 1, "", 0, com.fitdev.bikeathome.R.raw.question_1199005146486084846_1_9, callback, params);
+case 1 : return WDAPIDialogue.dialogue("Nom de la tâche :", new String[] {"OK", "Annuler"} , new int[] {1, 2} , 0, 1, 1, "", 0, com.fitdev.bikeathome.R.raw.question_1199286325110721416_1_14, callback, params);
 
 default: return super.afficherDialogue(nIdQuestion, callback, params);
 }
@@ -205,8 +228,8 @@ public WDObjet afficherSaisie(int nIdQuestion, WDObjet variable, String... param
 {
 switch(nIdQuestion)
 {
-case 0 : return WDAPIDialogue.saisie("Nom de la liste :", new String[] {"OK", "Annuler"} , new int[] {1, 2} , 0, 1, 1, "", 0, com.masociete.wm_todo_list.R.raw.question_1199005146486084846_1_10, variable, params);
-case 1 : return WDAPIDialogue.saisie("Nom de la tâche :", new String[] {"OK", "Annuler"} , new int[] {1, 2} , 0, 1, 1, "", 0, com.masociete.wm_todo_list.R.raw.question_1199286325110721416_1_12, variable, params);
+case 0 : return WDAPIDialogue.saisie("Nom de la liste :", new String[] {"OK", "Annuler"} , new int[] {1, 2} , 0, 1, 1, "", 0, com.fitdev.bikeathome.R.raw.question_1199005146486084846_1_9, variable, params);
+case 1 : return WDAPIDialogue.saisie("Nom de la tâche :", new String[] {"OK", "Annuler"} , new int[] {1, 2} , 0, 1, 1, "", 0, com.fitdev.bikeathome.R.raw.question_1199286325110721416_1_14, variable, params);
 
 default: return super.afficherSaisie(nIdQuestion, variable, params);
 }

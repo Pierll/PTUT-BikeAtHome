@@ -18,19 +18,19 @@ repositories {
 
 }
 apply plugin: 'com.android.application'
-archivesBaseName = 'WM ToDo List'
+archivesBaseName = 'BikeAtHome'
 android {
 	compileSdkVersion 30
 	buildToolsVersion '30.0.3'
 	useLibrary 'org.apache.http.legacy'
 	
 	defaultConfig {
-		applicationId "com.masociete.wm_todo_list"
+		applicationId "com.fitdev.bikeathome"
 		ndk {
 			abiFilters "armeabi-v7a",  "arm64-v8a"
 		}
 
-		minSdkVersion 21
+		minSdkVersion 24
 	}
 
 	sourceSets {

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
-INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
-INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
-INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4707
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4707
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4707
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4707
 MERGED from [WD260Android.aar] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32ec94604769ef64b687e9b61199ebbb\WD260Android\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\User\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
@@ -32,15 +32,15 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
-INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
-INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4205
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4707
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4707
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-4707
 	package
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:117-153
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:117-148
 		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
 		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
 	android:versionName
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:154-183
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:149-179
 		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
 		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
 	xmlns:tools
@@ -48,13 +48,13 @@ INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1-
 	xmlns:android
 		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:184-208
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:180-204
 		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
 		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
 	android:installLocation
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:209-239
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:205-235
 application
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:240-3892
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:236-4394
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
@@ -62,196 +62,216 @@ MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:requestLegacyExternalStorage
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:488-531
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:484-527
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:315-347
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:311-343
 	android:resizeableActivity
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:418-451
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:414-447
 	android:largeHeap
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:392-416
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:388-412
 	android:icon
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:348-391
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:344-387
 	android:usesCleartextTraffic
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:452-487
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:448-483
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:253-314
-activity#com.masociete.wm_todo_list.wdgen.GWDPBikeAtHome$WDLanceur
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:532-946
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:249-310
+activity#com.fitdev.bikeathome.wdgen.GWDPBikeAtHome$WDLanceur
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:528-942
 	android:label
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:589-621
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:585-617
 	android:configChanges
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:691-793
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:687-789
 	android:theme
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:622-690
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:618-686
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:542-588
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:538-584
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:794-935
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:790-931
 action#android.intent.action.MAIN
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:809-860
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:805-856
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:817-858
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:813-854
 category#android.intent.category.LAUNCHER
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:860-919
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:856-915
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:870-917
-activity#com.masociete.wm_todo_list.wdgen.GWDFFEN_Liste$WDActiviteFenetre
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:946-1237
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:866-913
+activity#com.fitdev.bikeathome.wdgen.GWDFFEN_Liste$WDActiviteFenetre
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:942-1233
 	android:screenOrientation
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1157-1199
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1153-1195
 	android:hardwareAccelerated
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1200-1235
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1196-1231
 	android:configChanges
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1010-1119
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1006-1115
 	android:theme
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1120-1156
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1116-1152
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:956-1009
-activity#com.masociete.wm_todo_list.wdgen.GWDFFEN_Saisie_Seance$WDActiviteFenetre
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1237-1500
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:952-1005
+activity#com.fitdev.bikeathome.wdgen.GWDFFEN_Entrainement$WDActiviteFenetre
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1233-1488
 	android:hardwareAccelerated
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1463-1498
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1451-1486
 	android:configChanges
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1309-1418
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1304-1413
 	android:theme
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1419-1462
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1414-1450
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1247-1308
-activity#com.masociete.wm_todo_list.wdgen.GWDFFEN_Accueil$WDActiviteFenetre
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1500-1793
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1243-1303
+activity#com.fitdev.bikeathome.wdgen.GWDFFEN_Saisie_Seance$WDActiviteFenetre
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1488-1751
+	android:hardwareAccelerated
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1714-1749
+	android:configChanges
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1560-1669
+	android:theme
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1670-1713
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1498-1559
+activity#com.fitdev.bikeathome.wdgen.GWDFFEN_Saisie_Item$WDActiviteFenetre
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1751-2012
+	android:hardwareAccelerated
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1975-2010
+	android:configChanges
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1821-1930
+	android:theme
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1931-1974
+	android:name
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1761-1820
+activity#com.fitdev.bikeathome.wdgen.GWDFFEN_Accueil$WDActiviteFenetre
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2012-2305
 	android:screenOrientation
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1713-1755
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2225-2267
 	android:hardwareAccelerated
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1756-1791
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2268-2303
 	android:configChanges
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1566-1675
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2078-2187
 	android:theme
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1676-1712
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2188-2224
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1510-1565
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2022-2077
 uses-library#org.apache.http.legacy
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1793-1871
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2305-2383
 	android:required
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1845-1869
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2357-2381
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1807-1844
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2319-2356
 activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1871-2100
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2383-2612
 	tools:node
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2078-2098
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2590-2610
 	xmlns:android
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1881-1939
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2393-2451
 	android:theme
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2009-2077
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2521-2589
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1940-2008
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2452-2520
 activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2100-2465
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2612-2977
 	tools:node
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2264-2284
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2776-2796
 	android:label
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2231-2263
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2743-2775
 	xmlns:android
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2110-2168
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2622-2680
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2169-2230
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2681-2742
 intent-filter#action:name:android.intent.action.SEARCH
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2285-2369
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2797-2881
 action#android.intent.action.SEARCH
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2300-2353
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2812-2865
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2308-2351
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2820-2863
 meta-data#android.app.searchable
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2369-2454
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2881-2966
 	android:resource
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2418-2452
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2930-2964
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2380-2417
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2892-2929
 provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2465-2691
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2977-3198
 	tools:node
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2669-2689
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3176-3196
 	android:authorities
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2620-2668
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3132-3175
 	android:exported
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2595-2619
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3107-3131
 	xmlns:android
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2475-2533
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2987-3045
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2534-2594
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3046-3106
 activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2691-2912
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3198-3419
 	tools:node
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2890-2910
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3397-3417
 	xmlns:android
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2701-2759
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3208-3266
 	android:theme
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2833-2889
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3340-3396
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2760-2832
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3267-3339
 provider#androidx.core.content.FileProvider
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2912-3287
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3419-3789
 	tools:node
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3153-3173
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3655-3675
 	android:grantUriPermissions
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3118-3152
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3620-3654
 	android:authorities
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3031-3092
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3538-3594
 	android:exported
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3093-3117
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3595-3619
 	xmlns:android
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2922-2980
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3429-3487
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2981-3030
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3488-3537
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3174-3276
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3676-3778
 	android:resource
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3236-3274
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3738-3776
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3185-3235
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3687-3737
 receiver#fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3287-3485
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3789-3987
 	tools:node
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3463-3483
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3965-3985
 	android:exported
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3438-3462
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3940-3964
 	xmlns:android
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3297-3355
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3799-3857
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3356-3437
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3858-3939
 service#fr.pcsoft.wdjava.core.service.WDServiceLocal
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3485-3555
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3987-4057
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3494-3553
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3996-4055
 meta-data#fr.pcsoft.first_window_name
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3555-3638
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4057-4140
 	android:value
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3609-3636
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4111-4138
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3566-3608
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4068-4110
 meta-data#fr.pcsoft.first_window_name_tablet
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3638-3717
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4140-4219
 	android:value
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3699-3715
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4201-4217
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3649-3698
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4151-4200
 meta-data#fr.pcsoft.splash_orientation_phone
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3717-3797
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4219-4299
 	android:value
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3778-3795
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4280-4297
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3728-3777
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4230-4279
 meta-data#fr.pcsoft.splash_orientation_tablet
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3797-3878
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4299-4380
 	android:value
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3859-3876
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4361-4378
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3808-3858
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4310-4360
 uses-sdk
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3892-3960
-INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3892-3960
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4394-4462
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4394-4462
 MERGED from [WD260Android.aar] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32ec94604769ef64b687e9b61199ebbb\WD260Android\AndroidManifest.xml:7:5-9:41
 MERGED from [WD260Android.aar] C:\Users\User\.gradle\caches\transforms-2\files-2.1\32ec94604769ef64b687e9b61199ebbb\WD260Android\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:20:5-44
@@ -308,26 +328,26 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gr
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3892-3960
+INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4394-4462
 	android:targetSdkVersion
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3929-3958
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4431-4460
 	android:minSdkVersion
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3902-3928
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4404-4430
 		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
 		INJECTED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml
 supports-screens
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3960-4119
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4462-4621
 	android:largeScreens
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4035-4062
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4537-4564
 	android:smallScreens
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3978-4005
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4480-4507
 	android:normalScreens
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4006-4034
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4508-4536
 	android:xlargeScreens
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4063-4091
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4565-4593
 	android:anyDensity
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4092-4117
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4594-4619
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4119-4194
+ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4621-4696
 	android:name
-		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4136-4192
+		ADDED from Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4638-4694

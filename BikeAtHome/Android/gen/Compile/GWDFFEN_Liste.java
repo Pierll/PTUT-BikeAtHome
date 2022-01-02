@@ -2,15 +2,15 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Fenêtre
  * Classe Android : FEN_Liste
- * Date : 30/12/2021 21:28:30
+ * Date : 31/12/2021 15:07:53
  * Version de wdjava.dll  : 26.0.228.3
  */
 
 
-package com.masociete.wm_todo_list.wdgen;
+package com.fitdev.bikeathome.wdgen;
 
 
-import com.masociete.wm_todo_list.*;
+import com.fitdev.bikeathome.*;
 import fr.pcsoft.wdjava.core.types.*;
 import fr.pcsoft.wdjava.core.*;
 import fr.pcsoft.wdjava.ui.champs.fenetre.*;
@@ -20,6 +20,7 @@ import fr.pcsoft.wdjava.ui.cadre.*;
 import fr.pcsoft.wdjava.api.*;
 import fr.pcsoft.wdjava.ui.champs.libelle.*;
 import fr.pcsoft.wdjava.core.application.*;
+import fr.pcsoft.wdjava.core.types.collection.tableau.*;
 import fr.pcsoft.wdjava.ui.actionbar.*;
 import fr.pcsoft.wdjava.ui.menu.*;
 import fr.pcsoft.wdjava.core.context.*;
@@ -138,20 +139,82 @@ super.terminerInitialisation();
 public GWDATT_Frequence mWD_ATT_Frequence = new GWDATT_Frequence();
 
 /**
+ * ATT_Heure
+ */
+class GWDATT_Heure extends WDAttributZR
+{
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des champs du fils n°4 de FEN_Liste.ZR_Tâches.ATT_Heure
+////////////////////////////////////////////////////////////////////////////
+public  void initialiserObjet()
+{
+super.initialiserObjet();
+super.setNom("ATT_Heure");
+
+super.setLiaisonFichier("item", "duree");
+
+super.setChampAssocie(mWD_LIB_SansNom1);
+
+super.setProprieteAssocie(EWDPropriete.PROP_VALEUR);
+
+activerEcoute();
+super.terminerInitialisation();
+}
+// Pas de traitement pour le champ FEN_Liste.ZR_Tâches.ATT_Heure
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des variables globales
+////////////////////////////////////////////////////////////////////////////
+}
+public GWDATT_Heure mWD_ATT_Heure = new GWDATT_Heure();
+
+/**
+ * ATT_Nom
+ */
+class GWDATT_Nom extends WDAttributZR
+{
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des champs du fils n°5 de FEN_Liste.ZR_Tâches.ATT_Nom
+////////////////////////////////////////////////////////////////////////////
+public  void initialiserObjet()
+{
+super.initialiserObjet();
+super.setNom("ATT_Nom");
+
+super.setLiaisonFichier("item", "nom");
+
+super.setChampAssocie(mWD_LIB_Nom);
+
+super.setProprieteAssocie(EWDPropriete.PROP_VALEUR);
+
+activerEcoute();
+super.terminerInitialisation();
+}
+// Pas de traitement pour le champ FEN_Liste.ZR_Tâches.ATT_Nom
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des variables globales
+////////////////////////////////////////////////////////////////////////////
+}
+public GWDATT_Nom mWD_ATT_Nom = new GWDATT_Nom();
+
+/**
  * SAI_Puissance
  */
 class GWDSAI_Puissance extends WDChampSaisieSimple
 {
 
 ////////////////////////////////////////////////////////////////////////////
-// Déclaration des champs du fils n°4 de FEN_Liste.ZR_Tâches.SAI_Puissance
+// Déclaration des champs du fils n°6 de FEN_Liste.ZR_Tâches.SAI_Puissance
 ////////////////////////////////////////////////////////////////////////////
 public  void initialiserObjet()
 {
 super.initialiserObjet();
 super.setFenetre( getWDFenetreThis() );
 super.setRectLibelle(0,2,19,28);
-super.setRectCompPrincipal(19,2,57,28);
+super.setRectCompPrincipal(19,2,32,28);
 super.setQuid(2435023384879917081l);
 
 super.setChecksum("626332164");
@@ -176,9 +239,9 @@ super.setNavigable(true);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(33, 8);
+super.setPositionInitiale(58, 8);
 
-super.setTailleInitiale(76, 32);
+super.setTailleInitiale(51, 32);
 
 super.setValeurInitiale("");
 
@@ -304,14 +367,14 @@ class GWDSAI_Frequence extends WDChampSaisieSimple
 {
 
 ////////////////////////////////////////////////////////////////////////////
-// Déclaration des champs du fils n°5 de FEN_Liste.ZR_Tâches.SAI_Frequence
+// Déclaration des champs du fils n°7 de FEN_Liste.ZR_Tâches.SAI_Frequence
 ////////////////////////////////////////////////////////////////////////////
 public  void initialiserObjet()
 {
 super.initialiserObjet();
 super.setFenetre( getWDFenetreThis() );
 super.setRectLibelle(0,2,19,28);
-super.setRectCompPrincipal(19,2,57,28);
+super.setRectCompPrincipal(19,2,33,28);
 super.setQuid(2435907911876340594l);
 
 super.setChecksum("583186902");
@@ -336,9 +399,9 @@ super.setNavigable(true);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(122, 8);
+super.setPositionInitiale(129, 8);
 
-super.setTailleInitiale(76, 32);
+super.setTailleInitiale(52, 32);
 
 super.setValeurInitiale("");
 
@@ -456,6 +519,174 @@ super.activerEcouteurModification();
 ////////////////////////////////////////////////////////////////////////////
 }
 public GWDSAI_Frequence mWD_SAI_Frequence = new GWDSAI_Frequence();
+
+/**
+ * LIB_SansNom1
+ */
+class GWDLIB_SansNom1 extends WDLibelle
+{
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des champs du fils n°8 de FEN_Liste.ZR_Tâches.LIB_SansNom1
+////////////////////////////////////////////////////////////////////////////
+public  void initialiserObjet()
+{
+super.initialiserObjet();
+super.setFenetre( getWDFenetreThis() );
+super.setQuid(2436142395719183597l);
+
+super.setChecksum("686513375");
+
+super.setNom("LIB_SansNom1");
+
+super.setType(3);
+
+super.setBulle("");
+
+super.setTypeSaisie(0);
+
+super.setMasqueSaisie(new WDChaineU("0"));
+
+super.setLibelle("Libellé");
+
+super.setNote("", "");
+
+super.setCurseurSouris(0);
+
+super.setEtatInitial(0);
+
+super.setPositionInitiale(201, 15);
+
+super.setTailleInitiale(67, 19);
+
+super.setPlan(0);
+
+super.setCadrageHorizontal(0);
+
+super.setCadrageVertical(0);
+
+super.setTailleMin(0, 0);
+
+super.setTailleMax(2147483647, 2147483647);
+
+super.setVisibleInitial(true);
+
+super.setAltitude(3);
+
+super.setAncrageInitial(0, 1000, 1000, 1000, 1000, 0);
+
+super.setEllipse(0);
+
+super.setTauxParallaxe(0, 0);
+
+super.setPresenceLibelle(true);
+
+super.setStyleLibelle(0x222222, 0xFFFFFFFF, creerPolice_GEN("Roboto", -8.000000, 0), 3, 0, 0x222222, 0);
+
+super.setCadreExterieur(WDCadreFactory.creerCadre_GEN(1, 0xE1E1E1, 0x616161, 0xFFFFFFFF, 2.000000, 2.000000, 0, 1), 0, 0, 0, 0);
+
+
+super.setMiseABlancSiZero(true);
+
+activerEcoute();
+super.terminerInitialisation();
+}
+
+// Activation des écouteurs: 
+public void activerEcoute()
+{
+}
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des variables globales
+////////////////////////////////////////////////////////////////////////////
+}
+public GWDLIB_SansNom1 mWD_LIB_SansNom1 = new GWDLIB_SansNom1();
+
+/**
+ * LIB_Nom
+ */
+class GWDLIB_Nom extends WDLibelle
+{
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des champs du fils n°9 de FEN_Liste.ZR_Tâches.LIB_Nom
+////////////////////////////////////////////////////////////////////////////
+public  void initialiserObjet()
+{
+super.initialiserObjet();
+super.setFenetre( getWDFenetreThis() );
+super.setQuid(2436146471544284610l);
+
+super.setChecksum("587651433");
+
+super.setNom("LIB_Nom");
+
+super.setType(3);
+
+super.setBulle("");
+
+super.setTypeSaisie(0);
+
+super.setMasqueSaisie(new WDChaineU("0"));
+
+super.setLibelle("Libellé");
+
+super.setNote("", "");
+
+super.setCurseurSouris(0);
+
+super.setEtatInitial(0);
+
+super.setPositionInitiale(33, -3);
+
+super.setTailleInitiale(241, 19);
+
+super.setPlan(0);
+
+super.setCadrageHorizontal(0);
+
+super.setCadrageVertical(0);
+
+super.setLiaisonFichier("item", "nom");
+
+super.setTailleMin(0, 0);
+
+super.setTailleMax(2147483647, 2147483647);
+
+super.setVisibleInitial(true);
+
+super.setAltitude(4);
+
+super.setAncrageInitial(0, 1000, 1000, 1000, 1000, 0);
+
+super.setEllipse(0);
+
+super.setTauxParallaxe(0, 0);
+
+super.setPresenceLibelle(true);
+
+super.setStyleLibelle(0x222222, 0xFFFFFFFF, creerPolice_GEN("Roboto", -8.000000, 0), 3, 0, 0x222222, 0);
+
+super.setCadreExterieur(WDCadreFactory.creerCadre_GEN(1, 0xE1E1E1, 0x616161, 0xFFFFFFFF, 2.000000, 2.000000, 0, 1), 0, 0, 0, 0);
+
+
+super.setMiseABlancSiZero(true);
+
+activerEcoute();
+super.terminerInitialisation();
+}
+
+// Activation des écouteurs: 
+public void activerEcoute()
+{
+}
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des variables globales
+////////////////////////////////////////////////////////////////////////////
+}
+public GWDLIB_Nom mWD_LIB_Nom = new GWDLIB_Nom();
 /**
  * Initialise tous les champs de FEN_Liste.ZR_Tâches
  */
@@ -471,10 +702,18 @@ mWD_ATT_Puissance.initialiserObjet();
 super.ajouterAttributZR(mWD_ATT_Puissance);
 mWD_ATT_Frequence.initialiserObjet();
 super.ajouterAttributZR(mWD_ATT_Frequence);
+mWD_ATT_Heure.initialiserObjet();
+super.ajouterAttributZR(mWD_ATT_Heure);
+mWD_ATT_Nom.initialiserObjet();
+super.ajouterAttributZR(mWD_ATT_Nom);
 mWD_SAI_Puissance.initialiserObjet();
 super.ajouterChamp("SAI_Puissance",mWD_SAI_Puissance);
 mWD_SAI_Frequence.initialiserObjet();
 super.ajouterChamp("SAI_Frequence",mWD_SAI_Frequence);
+mWD_LIB_SansNom1.initialiserObjet();
+super.ajouterChamp("LIB_SansNom1",mWD_LIB_SansNom1);
+mWD_LIB_Nom.initialiserObjet();
+super.ajouterChamp("LIB_Nom",mWD_LIB_Nom);
 creerAttributAuto();
 }
 public  void initialiserObjet()
@@ -528,7 +767,7 @@ super.setNumTab(1);
 
 super.setModeAscenseur(1, 1);
 
-super.setModeSelection(99);
+super.setModeSelection(5);
 
 super.setSaisieEnCascade(false);
 
@@ -806,53 +1045,47 @@ try
 // Déclaration des variables locales au traitement
 // (En WLangage les variables sont encore visibles après la fin du bloc dans lequel elles sont déclarées)
 ////////////////////////////////////////////////////////////////////////////
-WDObjet vWD_sNom = new WDChaineU();
+WDObjet vWD_TableauRetour = WDVarNonAllouee.ref;
 
 
+// TableauRetour est un tableau de 4 chaînes;
+vWD_TableauRetour = new WDTableauSimple(1, new int[]{4}, 0, 16);
 
-// sNom est une chaîne
+// TableauRetour = Ouvre(FEN_Saisie_Item);
+vWD_TableauRetour.setValeur(WDAPIFenetre.ouvre(GWDPBikeAtHome.getInstance().mWD_FEN_Saisie_Item));
 
-
-// SELON Saisie("Nom de la tâche :",sNom) 
-// Délimiteur de visibilité pour ne pas étendre la visibilité de la variable temporaire _WDExpSelon
+// SI TableauRetour[3] = "ERREUR" ALORS
+if(vWD_TableauRetour.get(3).opEgal("ERREUR", 0))
 {
-// SELON Saisie("Nom de la tâche :",sNom) 
-WDObjet _WDExpSelon0 = WDAPIDialogue.saisie(1,vWD_sNom);
-if(_WDExpSelon0.opEgal(1, 0))
-{
-// 		SI sNom <> "" ALORS
-if(vWD_sNom.opDiff(""))
-{
-// 			HRAZ(Item)
-WDAPIHF.hRaz(WDAPIHF.getFichierSansCasseNiAccent("item"));
-
-// 			Item.Nom = sNom
-WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("nom").setValeur(vWD_sNom);
-
-// 			Item.IDListe = Session.IDListe
-WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("idliste").setValeur(WDAPIHF.getFichierSansCasseNiAccent("session").getRubriqueSansCasseNiAccent("idliste"));
-
-// 			Item.PositionZR = ZR_Tâches..Occurrence + 1
-WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("positionzr").setValeur(mWD_ZR_Taches.getProp(EWDPropriete.PROP_OCCURRENCE).opPlus(1));
-
-// 			HAjoute(Item)
-WDAPIHF.hAjoute(WDAPIHF.getFichierSansCasseNiAccent("item"));
-
-// 			ZoneRépétéeAffiche(ZR_Tâches,taRéExecuteRequete)
-WDAPIZoneRepetee.zoneRepeteeAffiche(mWD_ZR_Taches,new WDChaineU("Reexecute"));
-
 }
 else
 {
-// 			Erreur("Veuillez entrer un nom pour la tâche.")
-WDAPIDialogue.erreur("Veuillez entrer un nom pour la tâche.");
+// 	HRAZ(Item)
+WDAPIHF.hRaz(WDAPIHF.getFichierSansCasseNiAccent("item"));
 
-}
+// 	Item.IDListe	= Session.IDListe
+WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("idliste").setValeur(WDAPIHF.getFichierSansCasseNiAccent("session").getRubriqueSansCasseNiAccent("idliste"));
 
-}
-else if(_WDExpSelon0.opEgal(2, 0))
-{
-}
+// 	Item.PositionZR	= ZR_Tâches..Occurrence + 1
+WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("positionzr").setValeur(mWD_ZR_Taches.getProp(EWDPropriete.PROP_OCCURRENCE).opPlus(1));
+
+// 	Item.PuissanceI	= TableauRetour[1];
+WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("puissancei").setValeur(vWD_TableauRetour.get(1));
+
+// 	Item.Frequence	= TableauRetour[2];
+WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("frequence").setValeur(vWD_TableauRetour.get(2));
+
+// 	Item.Duree		= TableauRetour[3];
+WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("duree").setValeur(vWD_TableauRetour.get(3));
+
+// 	Item.Nom		= TableauRetour[4];
+WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("nom").setValeur(vWD_TableauRetour.get(4));
+
+// 	HAjoute(Item)
+WDAPIHF.hAjoute(WDAPIHF.getFichierSansCasseNiAccent("item"));
+
+// 	ZoneRépétéeAffiche(ZR_Tâches,taRéExecuteRequete)
+WDAPIZoneRepetee.zoneRepeteeAffiche(mWD_ZR_Taches,new WDChaineU("Reexecute"));
 
 }
 

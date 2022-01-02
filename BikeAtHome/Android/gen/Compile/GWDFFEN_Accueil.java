@@ -2,15 +2,15 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Fenêtre
  * Classe Android : FEN_Accueil
- * Date : 30/12/2021 21:28:30
+ * Date : 31/12/2021 15:07:53
  * Version de wdjava.dll  : 26.0.228.3
  */
 
 
-package com.masociete.wm_todo_list.wdgen;
+package com.fitdev.bikeathome.wdgen;
 
 
-import com.masociete.wm_todo_list.*;
+import com.fitdev.bikeathome.*;
 import fr.pcsoft.wdjava.core.types.*;
 import fr.pcsoft.wdjava.core.*;
 import fr.pcsoft.wdjava.ui.champs.fenetre.*;
@@ -18,8 +18,8 @@ import fr.pcsoft.wdjava.ui.champs.zr.*;
 import fr.pcsoft.wdjava.ui.champs.libelle.*;
 import fr.pcsoft.wdjava.ui.cadre.*;
 import fr.pcsoft.wdjava.ui.champs.bouton.*;
-import fr.pcsoft.wdjava.core.types.collection.tableau.*;
 import fr.pcsoft.wdjava.api.*;
+import fr.pcsoft.wdjava.core.types.collection.tableau.*;
 import fr.pcsoft.wdjava.ui.actionbar.*;
 import fr.pcsoft.wdjava.ui.menu.*;
 import fr.pcsoft.wdjava.core.application.*;
@@ -255,9 +255,28 @@ activerEcoute();
 super.terminerInitialisation();
 }
 
+/**
+ * Traitement: Clic sur BTN_Flottant ( ZR_Listes )
+ */
+public void clicSurBoutonGauche()
+{
+super.clicSurBoutonGauche();
+
+// OuvreFenêtreMobile(FEN_Entrainement,ATT_ID)
+
+
+// OuvreFenêtreMobile(FEN_Entrainement,ATT_ID)
+WDAPIFenetre.ouvreFille(GWDPBikeAtHome.getInstance().mWD_FEN_Entrainement,new WDObjet[] {mWD_ATT_ID} );
+
+}
+
+
+
+
 // Activation des écouteurs: 
 public void activerEcoute()
 {
+super.activerEcouteurClic();
 }
 
 ////////////////////////////////////////////////////////////////////////////

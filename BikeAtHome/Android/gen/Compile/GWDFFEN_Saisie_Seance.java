@@ -2,15 +2,15 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Fenêtre
  * Classe Android : FEN_Saisie_Seance
- * Date : 30/12/2021 21:28:30
+ * Date : 31/12/2021 15:07:53
  * Version de wdjava.dll  : 26.0.228.3
  */
 
 
-package com.masociete.wm_todo_list.wdgen;
+package com.fitdev.bikeathome.wdgen;
 
 
-import com.masociete.wm_todo_list.*;
+import com.fitdev.bikeathome.*;
 import fr.pcsoft.wdjava.core.types.*;
 import fr.pcsoft.wdjava.core.*;
 import fr.pcsoft.wdjava.ui.champs.fenetre.*;
@@ -571,7 +571,7 @@ public GWDBTN_SansNom2 mWD_BTN_SansNom2;
  */
 public void declarerGlobale(WDObjet[] WD_tabParam)
 {
-// PROCEDURE MaFenêtre()
+// PROCÉDURE MaFenêtre()
 super.declarerGlobale(WD_tabParam, 0, 0);
 int WD_ntabParamLen = 0;
 if(WD_tabParam!=null) WD_ntabParamLen = WD_tabParam.length;
