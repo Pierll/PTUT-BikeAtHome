@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Historique		NFI		nouveau fichier
+Contrainte_Session_Historique		NWL	Session (Nom) et Historique (IDListe)	Nouvelle liaison entre les fichiers Session (Nom) et Historique (IDListe)
