@@ -1,0 +1,253 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.equipefitness.bikeathome"
+4    android:installLocation="auto"
+5    android:versionCode="16"
+6    android:versionName="1.0.14.0" >
+7
+8    <uses-sdk
+8-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4661-4729
+9        android:minSdkVersion="24"
+9-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4671-4697
+10        android:targetSdkVersion="29" />
+10-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4698-4727
+11
+12    <supports-screens
+12-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4729-4888
+13        android:anyDensity="true"
+13-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4861-4886
+14        android:largeScreens="true"
+14-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4804-4831
+15        android:normalScreens="true"
+15-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4775-4803
+16        android:smallScreens="true"
+16-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4747-4774
+17        android:xlargeScreens="true" />
+17-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4832-4860
+18
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4888-4963
+19-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4905-4961
+20
+21    <application
+21-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:243-4661
+22        android:name="fr.pcsoft.wdjava.core.application.WDAndroidApp"
+22-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:256-317
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+24        android:icon="@drawable/i_c_o_n_e________2"
+24-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:351-394
+25        android:label="@string/app_name"
+25-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:318-350
+26        android:largeHeap="true"
+26-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:395-419
+27        android:requestLegacyExternalStorage="true"
+27-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:491-534
+28        android:resizeableActivity="true"
+28-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:421-454
+29        android:usesCleartextTraffic="true" >
+29-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:455-490
+30        <activity
+30-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:535-949
+31            android:name="com.equipefitness.bikeathome.wdgen.GWDPBikeAtHome$WDLanceur"
+31-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:545-591
+32            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+32-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:694-796
+33            android:label="@string/app_name"
+33-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:592-624
+34            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" >
+34-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:625-693
+35            <intent-filter>
+35-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:797-938
+36                <action android:name="android.intent.action.MAIN" />
+36-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:812-863
+36-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:820-861
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:863-922
+38-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:873-920
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:949-1240
+42            android:name="com.equipefitness.bikeathome.wdgen.GWDFFEN_Liste$WDActiviteFenetre"
+42-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:959-1012
+43            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+43-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1013-1122
+44            android:hardwareAccelerated="false"
+44-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1203-1238
+45            android:screenOrientation="sensorPortrait"
+45-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1160-1202
+46            android:theme="@android:style/Theme" />
+46-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1123-1159
+47        <activity
+47-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1240-1495
+48            android:name="com.equipefitness.bikeathome.wdgen.GWDFFEN_Entrainement$WDActiviteFenetre"
+48-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1250-1310
+49            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+49-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1311-1420
+50            android:hardwareAccelerated="false"
+50-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1458-1493
+51            android:theme="@android:style/Theme" />
+51-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1421-1457
+52        <activity
+52-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1495-1748
+53            android:name="com.equipefitness.bikeathome.wdgen.GWDFFEN_Historique$WDActiviteFenetre"
+53-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1505-1563
+54            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+54-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1564-1673
+55            android:hardwareAccelerated="false"
+55-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1711-1746
+56            android:theme="@android:style/Theme" />
+56-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1674-1710
+57        <activity
+57-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1748-2011
+58            android:name="com.equipefitness.bikeathome.wdgen.GWDFFEN_Saisie_Seance$WDActiviteFenetre"
+58-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1758-1819
+59            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+59-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1820-1929
+60            android:hardwareAccelerated="false"
+60-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1974-2009
+61            android:theme="@android:style/Theme.Dialog" />
+61-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:1930-1973
+62        <activity
+62-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2011-2265
+63            android:name="com.equipefitness.bikeathome.wdgen.GWDFFEN_Saisie_Item$WDActiviteFenetre"
+63-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2021-2080
+64            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+64-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2081-2190
+65            android:hardwareAccelerated="false"
+65-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2228-2263
+66            android:theme="@android:style/Theme" />
+66-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2191-2227
+67        <activity
+67-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2265-2558
+68            android:name="com.equipefitness.bikeathome.wdgen.GWDFFEN_Accueil$WDActiviteFenetre"
+68-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2275-2330
+69            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+69-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2331-2440
+70            android:hardwareAccelerated="false"
+70-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2521-2556
+71            android:screenOrientation="sensorPortrait"
+71-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2478-2520
+72            android:theme="@android:style/Theme" />
+72-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2441-2477
+73
+74        <uses-library
+74-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2558-2636
+75            android:name="org.apache.http.legacy"
+75-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2572-2609
+76            android:required="false" />
+76-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2610-2634
+77
+78        <activity
+78-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2636-2865
+79            xmlns:android="http://schemas.android.com/apk/res/android"
+79-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2646-2704
+80            android:name="fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity"
+80-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2705-2773
+81            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" />
+81-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2774-2842
+82        <activity
+82-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2865-3230
+83            xmlns:android="http://schemas.android.com/apk/res/android"
+83-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2875-2933
+84            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity"
+84-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2934-2995
+85            android:label="@string/app_name" >
+85-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:2996-3028
+86            <intent-filter>
+86-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3050-3134
+87                <action android:name="android.intent.action.SEARCH" />
+87-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3065-3118
+87-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3073-3116
+88            </intent-filter>
+89
+90            <meta-data
+90-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3134-3219
+91                android:name="android.app.searchable"
+91-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3145-3182
+92                android:resource="@xml/searchable" />
+92-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3183-3217
+93        </activity>
+94
+95        <provider
+95-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3230-3458
+96            xmlns:android="http://schemas.android.com/apk/res/android"
+96-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3240-3298
+97            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory"
+97-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3299-3359
+98            android:authorities="com.equipefitness.bikeathome"
+98-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3385-3435
+99            android:exported="false" />
+99-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3360-3384
+100
+101        <activity
+101-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3458-3679
+102            xmlns:android="http://schemas.android.com/apk/res/android"
+102-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3468-3526
+103            android:name="fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity"
+103-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3527-3599
+104            android:theme="@android:style/Theme.DeviceDefault.Light" />
+104-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3600-3656
+105
+106        <provider
+106-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3679-4056
+107            xmlns:android="http://schemas.android.com/apk/res/android"
+107-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3689-3747
+108            android:name="androidx.core.content.FileProvider"
+108-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3748-3797
+109            android:authorities="com.equipefitness.bikeathome.fileprovider"
+109-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3798-3861
+110            android:exported="false"
+110-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3862-3886
+111            android:grantUriPermissions="true" >
+111-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3887-3921
+112            <meta-data
+112-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3943-4045
+113                android:name="android.support.FILE_PROVIDER_PATHS"
+113-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:3954-4004
+114                android:resource="@xml/provider_paths" />
+114-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4005-4043
+115        </provider>
+116
+117        <receiver
+117-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4056-4254
+118            xmlns:android="http://schemas.android.com/apk/res/android"
+118-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4066-4124
+119            android:name="fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver"
+119-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4125-4206
+120            android:exported="false" />
+120-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4207-4231
+121
+122        <service android:name="fr.pcsoft.wdjava.core.service.WDServiceLocal" />
+122-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4254-4324
+122-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4263-4322
+123
+124        <meta-data
+124-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4324-4407
+125            android:name="fr.pcsoft.first_window_name"
+125-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4335-4377
+126            android:value="FEN_Accueil" />
+126-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4378-4405
+127        <meta-data
+127-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4407-4486
+128            android:name="fr.pcsoft.first_window_name_tablet"
+128-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4418-4467
+129            android:value="" />
+129-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4468-4484
+130        <meta-data
+130-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4486-4566
+131            android:name="fr.pcsoft.splash_orientation_phone"
+131-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4497-4546
+132            android:value="1" />
+132-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4547-4564
+133        <meta-data
+133-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4566-4647
+134            android:name="fr.pcsoft.splash_orientation_tablet"
+134-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4577-4627
+135            android:value="4" />
+135-->Z:\PTUT-BikeAtHome\BikeAtHome\Android\gen\AndroidManifest.xml:2:4628-4645
+136    </application>
+137
+138</manifest>
