@@ -1,4 +1,2 @@
-//MO006-007.TXT ANA00006 TO ANA00007
-Historique		TAR	277	nouvelle taille enregistrement : 277
-Historique	DateH	CNW	Entier sur 4 octets$Date (aaaammjj)	la rubrique DateH a pour nouveau type Entier sur 4 octets
-Historique	Heure	RUB-		la rubrique Heure est supprimée
+//MO007-008.TXT ANA00007 TO ANA00008
+Contrainte_Session_Historique		MCL	1,n->0,n	

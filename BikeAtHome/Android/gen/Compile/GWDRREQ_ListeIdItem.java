@@ -2,7 +2,7 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Requête
  * Classe Android : REQ_ListeIdItem
- * Date : 05/01/2022 00:06:02
+ * Date : 05/03/2022 19:19:40
  * Version de wdjava.dll  : 26.0.228.3
  */
 
@@ -27,7 +27,7 @@ return "REQ_ListeIdItem";
 }
 public String getCodeSQLOriginal()
 {
-return "SELECT Duree, Nom, PuissanceI, Frequence\r\nFROM Item\r\nWHERE Item.IDListe = {paramIdListe#0}\r\nORDER By Item.PositionZR DESC;\r\n";
+return "SELECT\r\n\tDuree,\r\n\tNom,\r\n\tPuissanceI,\r\n\tFrequence\r\nFROM\r\n\tItem\r\nWHERE\r\n\tItem.IDListe = {paramIdListe#0}\r\nORDER By\r\n\tItem.PositionZR DESC\r\n;\r\n";
 }
 public Requete initArbre() throws WDInvalidSQLException
 {

@@ -2,7 +2,7 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Projet
  * Classe Android : BikeAtHome
- * Date : 05/01/2022 00:06:02
+ * Date : 05/03/2022 19:19:40
  * Version de wdjava.dll  : 26.0.228.3
  */
 
@@ -135,7 +135,7 @@ WDAPIHF.hCreationSiInexistant(new WDChaineU("*"));
 ////////////////////////////////////////////////////////////////////////////
 // Déclaration des variables globales
 ////////////////////////////////////////////////////////////////////////////
-public String getVersionApplication(){ return "1.0.14.0";}
+public String getVersionApplication(){ return "1.0.15.0";}
 public String getNomSociete(){ return "Equipe fitness";}
 public String getNomAPK(){ return "BikeAtHome";}
 public int getIdNomApplication(){return com.equipefitness.bikeathome.R.string.app_name;}

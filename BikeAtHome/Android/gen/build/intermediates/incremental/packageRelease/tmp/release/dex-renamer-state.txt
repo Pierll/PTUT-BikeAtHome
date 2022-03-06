@@ -1,4 +1,4 @@
-#Wed Jan 05 00:07:51 CAT 2022
+#Sat Mar 05 19:20:50 CAT 2022
 base.1=Z\:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes2.dex
 path.1=classes2.dex
 base.0=Z\:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex

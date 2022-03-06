@@ -28,12 +28,12 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-mdpi-v4\\wm_rupture_on.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\color_design_box_stroke_color.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\color\\design_box_stroke_color.xml"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_wm_table_planche_picto_tri.png.flat",
@@ -48,12 +48,12 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\raw\\wm_map_style_night.json"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_dark.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_wm_tdb_remove_selectorfocus.png.flat",
@@ -64,20 +64,20 @@
         "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-xxxhdpi\\material_design_indigo_combo_24_np3_32_6_42_6_selectorhovered.9.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_checked_icon_null_animation.xml"
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_ic_mtrl_chip_checked_black.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_checked_icon_null_animation.xml"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_navigation_empty_icon.xml.flat",
@@ -112,36 +112,36 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xhdpi-v4\\ic_action_reply.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_wm_table_tri_asc.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-mdpi-v4\\wm_table_tri_asc.png"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\c527b78844be871c44103f6f45a963fb\\core-1.1.0\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_ic_action_collection.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xhdpi-v4\\ic_action_collection.png"
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_wm_table_tri_asc.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-mdpi-v4\\wm_table_tri_asc.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_ic_action_collection.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xhdpi-v4\\ic_action_collection.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\anim_design_snackbar_in.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_up_container.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\color_mtrl_btn_bg_color_selector.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\color\\mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\layout_mtrl_picker_text_input_date.xml.flat",
@@ -296,12 +296,12 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-hdpi-v4\\wm_tdb_remove_selectordisabled.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\layout_mtrl_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\layout\\mtrl_layout_snackbar.xml"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\layout_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\layout\\mtrl_layout_snackbar.xml"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\anim_btn_radio_to_on_mtrl_ring_outer_animation.xml.flat",
@@ -356,12 +356,12 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xxxhdpi-v4\\wm_galerie_precedent.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\layout_design_layout_tab_text.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_material_design_indigo_pict_detail_16_5_8.png.flat",
         "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-mdpi\\material_design_indigo_pict_detail_16_5_8.png"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_multichoice_material.xml.flat",
@@ -388,12 +388,12 @@
         "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-mdpi\\material_design_indigo_progbar_activ_16.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_wm_galerie_suivant.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xxxhdpi-v4\\wm_galerie_suivant.png"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_wm_galerie_suivant.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xxxhdpi-v4\\wm_galerie_suivant.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_anim_scan_onde_10.png.flat",
@@ -412,12 +412,12 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\anim_overlap_down_out.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\anim\\overlap_down_out.xml"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_wm_table_filtre.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xxxhdpi-v4\\wm_table_filtre.png"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\anim_overlap_down_out.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\anim\\overlap_down_out.xml"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_material_design_indigo_break_pict_19_selectorenroule.png.flat",
@@ -452,12 +452,12 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_btn_checkbox_checked_mtrl.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable\\btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_material_design_indigo_break_pict_19_selectorderoule.png.flat",
@@ -544,12 +544,12 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xhdpi-v4\\ic_action_camera.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_wm_table_filtre_inf.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xhdpi-v4\\wm_table_filtre_inf.png"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_material_design_indigo_btn_std_15_np3_10_10_10_10_selectorfocus.9.png.flat",
@@ -576,24 +576,24 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-hdpi-v4\\wm_tdb_remove_selectorfocus.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_ic_action_edit.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xxhdpi-v4\\ic_action_edit.png"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_material_design_indigo_rollover_20.png.flat",
         "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-hdpi\\material_design_indigo_rollover_20.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-v21_design_password_eye.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\drawable-v21\\design_password_eye.xml"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-v21_design_password_eye.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_wm_tdb_remove_selectordisabled.png.flat",
@@ -628,24 +628,24 @@
         "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-xxhdpi\\material_design_indigo_progbar_activ_16.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_material_design_indigo_btn_std_15_np3_10_10_10_10_selectorfocus.9.png.flat",
+        "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-mdpi\\material_design_indigo_btn_std_15_np3_10_10_10_10_selectorfocus.9.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_btn_radio_on_mtrl.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable\\btn_radio_on_mtrl.xml"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_material_design_indigo_btn_std_15_np3_10_10_10_10_selectorfocus.9.png.flat",
-        "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-mdpi\\material_design_indigo_btn_std_15_np3_10_10_10_10_selectorfocus.9.png"
-    },
-    {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_i_c_o_n_e________2.png.flat",
-        "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-xxxhdpi\\i_c_o_n_e________2.png"
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_material_design_indigo_combo_24_np3_32_6_42_6_selector.xml.flat",
         "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-xxxhdpi\\material_design_indigo_combo_24_np3_32_6_42_6_selector.xml"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_i_c_o_n_e________2.png.flat",
+        "source": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\res\\drawable-xxxhdpi\\i_c_o_n_e________2.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -748,20 +748,20 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-mdpi-v4\\wm_text_select_handle_right.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material_anim.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable\\abc_btn_check_material_anim.xml"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material_anim.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable\\abc_btn_check_material_anim.xml"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_bg_10_np3_15_4_7_7.9.png.flat",
@@ -836,12 +836,12 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\raw\\wdmsg_ui_en.properties"
     },
     {
-        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_mtrl_tabs_default_indicator.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\drawable\\mtrl_tabs_default_indicator.xml"
-    },
-    {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_ic_action_previous.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\32ec94604769ef64b687e9b61199ebbb\\WD260Android\\res\\drawable-xxhdpi-v4\\ic_action_previous.png"
+    },
+    {
+        "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\drawable_mtrl_tabs_default_indicator.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\e515d40e627c4e0412a7c5fa3f288da9\\material-1.1.0\\res\\drawable\\mtrl_tabs_default_indicator.xml"
     },
     {
         "merged": "Z:\\PTUT-BikeAtHome\\BikeAtHome\\Android\\gen\\build\\intermediates\\res\\merged\\release\\raw_req_dureetotalesession.wdr.flat",

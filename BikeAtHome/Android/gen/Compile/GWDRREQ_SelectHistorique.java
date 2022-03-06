@@ -2,7 +2,7 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Requête
  * Classe Android : REQ_SelectHistorique
- * Date : 05/01/2022 00:06:02
+ * Date : 05/03/2022 19:19:40
  * Version de wdjava.dll  : 26.0.228.3
  */
 
@@ -27,7 +27,7 @@ return "REQ_SelectHistorique";
 }
 public String getCodeSQLOriginal()
 {
-return "SELECT Historique.DateH, Session.Nom FRom Historique, Session WHERE Historique.IDListe = Session.IdListe\r\nORDER BY Historique.DateH DESC;\r\n";
+return "SELECT Historique.DateH, Session.Nom FRom Historique, Session WHERE Historique.IDListe = Session.IdListe ORDER BY Historique.DateH DESC;\r\n";
 }
 public Requete initArbre() throws WDInvalidSQLException
 {

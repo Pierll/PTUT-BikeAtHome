@@ -2,7 +2,7 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Fenêtre
  * Classe Android : FEN_Accueil
- * Date : 05/01/2022 00:06:01
+ * Date : 05/03/2022 19:19:40
  * Version de wdjava.dll  : 26.0.228.3
  */
 
@@ -368,7 +368,7 @@ WDObjet vWD_d = new WDDateHeure();
 // d est une dateheure;
 
 
-// HExécuteRequête(REQ_Inserer_Historique, hRequêteDéfaut, d.VersEpoch(), ATT_ID);
+// HExécuteRequête(REQ_Inserer_Historique, hRequêteDéfaut, d.VersEpoch(), ATT_ID); //ajoute dans l'historique date/heure/nom
 WDAPIHF.hExecuteRequete(WDAPIHF.getRequeteSansCasseNiAccent("req_inserer_historique"),new WDEntier4(0),new WDObjet[] {WDAPIDate.dateHeureVersEpoch(vWD_d),mWD_ATT_ID} );
 
 // OuvreFenêtreMobile(FEN_Entrainement,ATT_ID);
@@ -827,17 +827,17 @@ WDObjet vWD_TableauRetour = WDVarNonAllouee.ref;
 // TableauRetour est un tableau de 2 chaînes;
 vWD_TableauRetour = new WDTableauSimple(1, new int[]{2}, 0, 16);
 
-// TableauRetour = Ouvre(FEN_Saisie_Seance);
+// TableauRetour = Ouvre(FEN_Saisie_Seance); //recuperer le nom et difficulte
 vWD_TableauRetour.setValeur(WDAPIFenetre.ouvre(GWDPBikeAtHome.getInstance().mWD_FEN_Saisie_Seance));
 
-// si TableauRetour[2] = "ERREUR" ALORS
+// si TableauRetour[2] = "ERREUR" ALORS //si information erronée ne rien faire
 if(vWD_TableauRetour.get(2).opEgal("ERREUR", 0))
 {
 }
 else if(vWD_TableauRetour.get(2).opEgal(-1, 0))
 {
-// 	erreur("Choisissez une difficutee");
-WDAPIDialogue.erreur("Choisissez une difficutee");
+// 	erreur("Choisissez une difficute");
+WDAPIDialogue.erreur("Choisissez une difficute");
 
 }
 else
@@ -883,95 +883,6 @@ public GWDBTN_Flottant mWD_BTN_Flottant;
 ////////////////////////////////////////////////////////////////////////////
 // Procédures utilisateur de FEN_Accueil
 ////////////////////////////////////////////////////////////////////////////
-//  Résumé : Crée une nouvelle liste
-// 
-public void fWD_nouvelleListe()
-{
-// PROCEDURE NouvelleListe()
-initExecProcLocale("NouvelleListe");
-
-
-try
-{
-
-////////////////////////////////////////////////////////////////////////////
-// Déclaration des variables locales au traitement
-// (En WLangage les variables sont encore visibles après la fin du bloc dans lequel elles sont déclarées)
-////////////////////////////////////////////////////////////////////////////
-WDObjet vWD_sNom = new WDChaineU();
-
-
-
-// sNom est une chaîne
-
-
-// SELON Saisie("Nom de la liste :",sNom )
-// Délimiteur de visibilité pour ne pas étendre la visibilité de la variable temporaire _WDExpSelon
-{
-// SELON Saisie("Nom de la liste :",sNom )
-WDObjet _WDExpSelon0 = WDAPIDialogue.saisie(0,vWD_sNom);
-if(_WDExpSelon0.opEgal(1, 0))
-{
-// 		SI sNom <> "" ALORS
-if(vWD_sNom.opDiff(""))
-{
-// 			HLitRecherche(Session,Nom,sNom)
-WDAPIHF.hLitRecherche(WDAPIHF.getFichierSansCasseNiAccent("session"),WDAPIHF.getRubriqueSansCasseNiAccent("nom"),vWD_sNom);
-
-// 			Si pas htrouve(Session) ALORS
-if((!WDAPIHF.hTrouve(WDAPIHF.getFichierSansCasseNiAccent("session")).getBoolean()))
-{
-// 				HRAZ(Session)
-WDAPIHF.hRaz(WDAPIHF.getFichierSansCasseNiAccent("session"));
-
-// 				Session.Nom = sNom
-WDAPIHF.getFichierSansCasseNiAccent("session").getRubriqueSansCasseNiAccent("nom").setValeur(vWD_sNom);
-
-// 				Session.PositionZR = ZR_Listes..Occurrence + 1
-WDAPIHF.getFichierSansCasseNiAccent("session").getRubriqueSansCasseNiAccent("positionzr").setValeur(mWD_ZR_Listes.getProp(EWDPropriete.PROP_OCCURRENCE).opPlus(1));
-
-// 				HAjoute(Session)	
-WDAPIHF.hAjoute(WDAPIHF.getFichierSansCasseNiAccent("session"));
-
-// 				ouvrefenetremobile(FEN_Liste,Session.IDListe)
-WDAPIFenetre.ouvreFille(GWDPBikeAtHome.getInstance().mWD_FEN_Liste,new WDObjet[] {WDAPIHF.getFichierSansCasseNiAccent("session").getRubriqueSansCasseNiAccent("idliste")} );
-
-}
-else
-{
-// 				Erreur("Une liste avec le même nom existe déjà.")
-WDAPIDialogue.erreur("Une liste avec le même nom existe déjà.");
-
-// 				retour	
-return;
-
-}
-
-}
-else
-{
-// 			Erreur("Veuillez entrer un nom pour la liste.")
-WDAPIDialogue.erreur("Veuillez entrer un nom pour la liste.");
-
-}
-
-}
-else if(_WDExpSelon0.opEgal(2, 0))
-{
-}
-
-}
-
-}
-finally
-{
-finExecProcLocale();
-}
-
-}
-
-
-
 //  Résumé : Edite une liste
 // 
 public void fWD_editeListe()
@@ -1095,7 +1006,7 @@ finExecProcLocale();
 // 
 public void fWD_rafraichitListes()
 {
-// PROCÉDURE RafraîchitListes()
+// PROCEDURE RafraîchitListes()
 initExecProcLocale("RafraîchitListes");
 
 
@@ -1104,7 +1015,7 @@ try
 // SauvePositions()
 fWD_sauvePositions();
 
-// ZoneRépétéeAffiche(ZR_Listes,taRéExécuteRequete)
+// ZoneRépétéeAffiche(ZR_Listes,taRéExecuteRequete)
 WDAPIZoneRepetee.zoneRepeteeAffiche(mWD_ZR_Listes,new WDChaineU("Reexecute"));
 
 // POUR i = 1 À ZR_Listes.Occurrence(toAffichée)
@@ -1114,7 +1025,7 @@ for(WDObjet vWD_i = new WDEntier4(1);vWD_i.opInfEgal(WDAPIZoneRepetee.zoneRepete
 // 	HExécuteRequête(REQ_DureeTotaleSession,hRequêteDéfaut,ZR_Listes[i].ATT_ID);
 WDAPIHF.hExecuteRequete(WDAPIHF.getRequeteSansCasseNiAccent("req_dureetotalesession"),new WDEntier4(0),new WDObjet[] {mWD_ZR_Listes.get(vWD_i).get("ATT_ID")} );
 
-// 	d est une Durée;
+// 	d est une durée;
 WDObjet vWD_d = new WDDuree();
 
 
@@ -1122,13 +1033,13 @@ WDObjet vWD_d = new WDDuree();
 // 	d.Seconde = REQ_DureeTotaleSession.DureeS;
 vWD_d.setProp(EWDPropriete.PROP_SECONDE,WDAPIHF.getFichierSansCasseNiAccent("req_dureetotalesession").getRubriqueSansCasseNiAccent("durees"));
 
-// 	ZR_Listes[i].LIB_Duree = DuréeVersChaîne(d, "MM:SS"); //on affiche la duree totale
+// 	ZR_Listes[i].LIB_Duree = DuréeVersChaîne(d, "MM:SS"); //on affiche la durée totale
 mWD_ZR_Listes.get(vWD_i).get("LIB_Duree").setValeur(WDAPIDate.dureeVersChaine(vWD_d,new WDChaineU("MM:SS")));
 
-// 	SI ZR_Listes[i].LIB_diff = 1 ALORS // la couleur change en fonction de la difficulte 
+// 	SI ZR_Listes[i].LIB_diff = 1 ALORS // on parcours la liste et change en fonction de la difficulté
 if(mWD_ZR_Listes.get(vWD_i).get("LIB_diff").opEgal(1, 0))
 {
-// 		ZR_Listes[i].LIB_Nom.CouleurFond	= VertClair;
+// 		ZR_Listes[i].LIB_Nom.CouleurFond	= VertClair; //facile
 mWD_ZR_Listes.get(vWD_i).get("LIB_Nom").setProp(EWDPropriete.PROP_COULEURFOND,65280);
 
 // 		ZR_Listes[i].LIB_diff				= "Facile";
@@ -1137,7 +1048,7 @@ mWD_ZR_Listes.get(vWD_i).get("LIB_diff").setValeur("Facile");
 }
 else if(mWD_ZR_Listes.get(vWD_i).get("LIB_diff").opEgal(2, 0))
 {
-// 		ZR_Listes[i].LIB_Nom.CouleurFond	= JauneOr;
+// 		ZR_Listes[i].LIB_Nom.CouleurFond	= JauneOr; //moyen
 mWD_ZR_Listes.get(vWD_i).get("LIB_Nom").setProp(EWDPropriete.PROP_COULEURFOND,55295);
 
 // 		ZR_Listes[i].LIB_diff				= "Moyenne";
@@ -1146,7 +1057,7 @@ mWD_ZR_Listes.get(vWD_i).get("LIB_diff").setValeur("Moyenne");
 }
 else
 {
-// 		ZR_Listes[i].LIB_Nom.CouleurFond	= RougeClair;
+// 		ZR_Listes[i].LIB_Nom.CouleurFond	= RougeClair; //difficile
 mWD_ZR_Listes.get(vWD_i).get("LIB_Nom").setProp(EWDPropriete.PROP_COULEURFOND,255);
 
 // 		ZR_Listes[i].LIB_diff				= "Difficile";

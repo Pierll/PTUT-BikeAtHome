@@ -2,7 +2,7 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Fenêtre
  * Classe Android : FEN_Liste
- * Date : 05/01/2022 00:06:02
+ * Date : 05/03/2022 19:19:40
  * Version de wdjava.dll  : 26.0.228.3
  */
 
@@ -1149,7 +1149,7 @@ super.affichageLigne();
 // 
 
 
-// LIB_Aucun..Visible = Faux
+// LIB_Aucun..Visible = faux
 mWD_LIB_Aucun.setProp(EWDPropriete.PROP_VISIBLE,false);
 
 }
@@ -1480,11 +1480,11 @@ finExecProcLocale();
 
 
 
-//  Résumé : Crée une nouvelle tâche
+//  Résumé : Crée une nouvelle exercice
 // 
 public void fWD_nouvelleTache()
 {
-// PROCEDURE NouvelleTâche()
+// PROCÉDURE NouvelleTâche()
 initExecProcLocale("NouvelleTâche");
 
 
@@ -1501,7 +1501,7 @@ WDObjet vWD_TableauRetour = WDVarNonAllouee.ref;
 // TableauRetour est un tableau de 4 chaînes;
 vWD_TableauRetour = new WDTableauSimple(1, new int[]{4}, 0, 16);
 
-// TableauRetour = Ouvre(FEN_Saisie_Item);
+// TableauRetour = Ouvre(FEN_Saisie_Item); //récupère les composants de l'exercice
 vWD_TableauRetour.setValeur(WDAPIFenetre.ouvre(GWDPBikeAtHome.getInstance().mWD_FEN_Saisie_Item));
 
 // SI TableauRetour[3] = "ERREUR" ALORS
@@ -1510,7 +1510,7 @@ if(vWD_TableauRetour.get(3).opEgal("ERREUR", 0))
 }
 else
 {
-// 	HRAZ(Item)
+// 	HRAZ(Item) //Crée un nouvel item 
 WDAPIHF.hRaz(WDAPIHF.getFichierSansCasseNiAccent("item"));
 
 // 	Item.IDListe	= Session.IDListe
@@ -1534,7 +1534,7 @@ WDAPIHF.getFichierSansCasseNiAccent("item").getRubriqueSansCasseNiAccent("nom").
 // 	HAjoute(Item)
 WDAPIHF.hAjoute(WDAPIHF.getFichierSansCasseNiAccent("item"));
 
-// 	ZoneRépétéeAffiche(ZR_Tâches,taRéExecuteRequete)
+// 	ZoneRépétéeAffiche(ZR_Tâches,taRéExécuteRequete)
 WDAPIZoneRepetee.zoneRepeteeAffiche(mWD_ZR_Taches,new WDChaineU("Reexecute"));
 
 }

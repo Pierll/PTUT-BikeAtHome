@@ -2,7 +2,7 @@
  * Code généré par WINDEV - NE PAS MODIFIER !
  * Objet WINDEV : Fenêtre
  * Classe Android : FEN_Entrainement
- * Date : 05/01/2022 00:06:01
+ * Date : 05/03/2022 19:19:40
  * Version de wdjava.dll  : 26.0.228.3
  */
 
@@ -138,7 +138,7 @@ super.setNavigable(false);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(55, 139);
+super.setPositionInitiale(55, 154);
 
 super.setTailleInitiale(244, 243);
 
@@ -230,7 +230,7 @@ super.setCurseurSouris(0);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(125, 232);
+super.setPositionInitiale(125, 236);
 
 super.setTailleInitiale(149, 56);
 
@@ -462,9 +462,9 @@ super.setCurseurSouris(0);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(98, 47);
+super.setPositionInitiale(28, 48);
 
-super.setTailleInitiale(159, 28);
+super.setTailleInitiale(159, 37);
 
 super.setPlan(0);
 
@@ -488,7 +488,7 @@ super.setTauxParallaxe(0, 0);
 
 super.setPresenceLibelle(true);
 
-super.setStyleLibelle(0x222222, 0xFFFFFFFF, creerPolice_GEN("Roboto", -11.000000, 1), 3, 0, 0x222222, 0);
+super.setStyleLibelle(0x222222, 0xFFFFFFFF, creerPolice_GEN("Roboto", -13.000000, 1), 3, 0, 0x222222, 0);
 
 super.setCadreExterieur(WDCadreFactory.creerCadre_GEN(1, 0xE1E1E1, 0x616161, 0xFFFFFFFF, 2.000000, 2.000000, 0, 1), 0, 0, 0, 0);
 
@@ -675,9 +675,9 @@ super.setCurseurSouris(0);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(98, 412);
+super.setPositionInitiale(38, 412);
 
-super.setTailleInitiale(65, 19);
+super.setTailleInitiale(66, 19);
 
 super.setPlan(0);
 
@@ -758,9 +758,9 @@ super.setCurseurSouris(0);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(179, 412);
+super.setPositionInitiale(120, 412);
 
-super.setTailleInitiale(120, 19);
+super.setTailleInitiale(190, 19);
 
 super.setPlan(0);
 
@@ -841,7 +841,7 @@ super.setNavigable(false);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(26, 85);
+super.setPositionInitiale(26, 100);
 
 super.setTailleInitiale(42, 54);
 
@@ -936,9 +936,9 @@ super.setCurseurSouris(0);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(68, 103);
+super.setPositionInitiale(68, 109);
 
-super.setTailleInitiale(42, 19);
+super.setTailleInitiale(79, 36);
 
 super.setPlan(0);
 
@@ -962,7 +962,7 @@ super.setTauxParallaxe(0, 0);
 
 super.setPresenceLibelle(true);
 
-super.setStyleLibelle(0x222222, 0xFFFFFFFF, creerPolice_GEN("Roboto", -8.000000, 0), 3, 0, 0x222222, 0);
+super.setStyleLibelle(0x222222, 0xFFFFFFFF, creerPolice_GEN("Roboto", -16.000000, 0), 3, 0, 0x222222, 0);
 
 super.setCadreExterieur(WDCadreFactory.creerCadre_GEN(1, 0xE1E1E1, 0x616161, 0xFFFFFFFF, 2.000000, 2.000000, 0, 1), 0, 0, 0, 0);
 
@@ -1019,7 +1019,7 @@ super.setNavigable(false);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(195, 90);
+super.setPositionInitiale(195, 105);
 
 super.setTailleInitiale(68, 45);
 
@@ -1114,9 +1114,9 @@ super.setCurseurSouris(0);
 
 super.setEtatInitial(0);
 
-super.setPositionInitiale(265, 103);
+super.setPositionInitiale(268, 106);
 
-super.setTailleInitiale(42, 19);
+super.setTailleInitiale(69, 43);
 
 super.setPlan(0);
 
@@ -1140,7 +1140,7 @@ super.setTauxParallaxe(0, 0);
 
 super.setPresenceLibelle(true);
 
-super.setStyleLibelle(0x222222, 0xFFFFFFFF, creerPolice_GEN("Roboto", -8.000000, 0), 3, 0, 0x222222, 0);
+super.setStyleLibelle(0x222222, 0xFFFFFFFF, creerPolice_GEN("Roboto", -16.000000, 0), 3, 0, 0x222222, 0);
 
 super.setCadreExterieur(WDCadreFactory.creerCadre_GEN(1, 0xE1E1E1, 0x616161, 0xFFFFFFFF, 2.000000, 2.000000, 0, 1), 0, 0, 0, 0);
 
@@ -1162,25 +1162,191 @@ public void activerEcoute()
 }
 public GWDLIB_Frequence mWD_LIB_Frequence;
 
+/**
+ * LIB_temps_restant
+ */
+class GWDLIB_temps_restant extends WDLibelle
+{
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des champs du fils n°12 de FEN_Entrainement.LIB_temps_restant
+////////////////////////////////////////////////////////////////////////////
+public  void initialiserObjet()
+{
+super.initialiserObjet();
+super.setFenetre( getWDFenetreThis() );
+super.setQuid(2459990107048043312l);
+
+super.setChecksum("599166080");
+
+super.setNom("LIB_temps_restant");
+
+super.setType(3);
+
+super.setBulle("");
+
+super.setTypeSaisie(0);
+
+super.setMasqueSaisie(new WDChaineU("0"));
+
+super.setLibelle("-");
+
+super.setNote("", "");
+
+super.setCurseurSouris(0);
+
+super.setEtatInitial(0);
+
+super.setPositionInitiale(207, 0);
+
+super.setTailleInitiale(68, 32);
+
+super.setPlan(0);
+
+super.setCadrageHorizontal(0);
+
+super.setCadrageVertical(0);
+
+super.setTailleMin(0, 0);
+
+super.setTailleMax(2147483647, 2147483647);
+
+super.setVisibleInitial(true);
+
+super.setAltitude(12);
+
+super.setAncrageInitial(0, 1000, 1000, 1000, 1000, 0);
+
+super.setEllipse(0);
+
+super.setTauxParallaxe(0, 0);
+
+super.setPresenceLibelle(true);
+
+super.setStyleLibelle(0x222222, 0x808080, creerPolice_GEN("Roboto", -11.000000, 1), 3, 0, 0x222222, 0);
+
+super.setCadreExterieur(WDCadreFactory.creerCadre_GEN(27, 0xE1E1E1, 0x616161, 0x808080, 2.000000, 2.000000, 1, 1), 0, 0, 0, 0);
+
+
+super.setMiseABlancSiZero(true);
+
+activerEcoute();
+super.terminerInitialisation();
+}
+
+// Activation des écouteurs: 
+public void activerEcoute()
+{
+}
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des variables globales
+////////////////////////////////////////////////////////////////////////////
+}
+public GWDLIB_temps_restant mWD_LIB_temps_restant;
+
+/**
+ * LIB_SansNom1
+ */
+class GWDLIB_SansNom1 extends WDLibelle
+{
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des champs du fils n°13 de FEN_Entrainement.LIB_SansNom1
+////////////////////////////////////////////////////////////////////////////
+public  void initialiserObjet()
+{
+super.initialiserObjet();
+super.setFenetre( getWDFenetreThis() );
+super.setQuid(2459992580971736540l);
+
+super.setChecksum("621697388");
+
+super.setNom("LIB_SansNom1");
+
+super.setType(3);
+
+super.setBulle("");
+
+super.setTypeSaisie(0);
+
+super.setMasqueSaisie(new WDChaineU("0"));
+
+super.setLibelle("Temps total restant:");
+
+super.setNote("", "");
+
+super.setCurseurSouris(0);
+
+super.setEtatInitial(0);
+
+super.setPositionInitiale(-1, -1);
+
+super.setTailleInitiale(208, 33);
+
+super.setPlan(0);
+
+super.setCadrageHorizontal(0);
+
+super.setCadrageVertical(0);
+
+super.setTailleMin(0, 0);
+
+super.setTailleMax(2147483647, 2147483647);
+
+super.setVisibleInitial(true);
+
+super.setAltitude(13);
+
+super.setAncrageInitial(0, 1000, 1000, 1000, 1000, 0);
+
+super.setEllipse(0);
+
+super.setTauxParallaxe(0, 0);
+
+super.setPresenceLibelle(true);
+
+super.setStyleLibelle(0x222222, 0x808080, creerPolice_GEN("Roboto", -11.000000, 1), 3, 0, 0x222222, 0);
+
+super.setCadreExterieur(WDCadreFactory.creerCadre_GEN(27, 0xE1E1E1, 0x616161, 0x808080, 2.000000, 2.000000, 1, 1), 0, 0, 0, 0);
+
+
+super.setMiseABlancSiZero(true);
+
+activerEcoute();
+super.terminerInitialisation();
+}
+
+// Activation des écouteurs: 
+public void activerEcoute()
+{
+}
+
+////////////////////////////////////////////////////////////////////////////
+// Déclaration des variables globales
+////////////////////////////////////////////////////////////////////////////
+}
+public GWDLIB_SansNom1 mWD_LIB_SansNom1;
+
 
 ////////////////////////////////////////////////////////////////////////////
 // Procédures utilisateur de FEN_Entrainement
 ////////////////////////////////////////////////////////////////////////////
 public void fWD_chronoUpdate()
 {
-// procédure ChronoUpdate()
+// PROCÉDURE ChronoUpdate()
 initExecProcLocale("ChronoUpdate");
 
 
 try
 {
-// SI (gstEncours.duSec.EnSecondes <= 0) OU (gstEncours.duSecMAX.EnSecondes <= 0) ALORS
+// SI (gstEncours.duSec.EnSecondes <= 0) OU (gstEncours.duSecMAX.EnSecondes <= 0) ALORS //Si le temps de l'exercice actuel est écoulé
 if((vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_duSec.getProp(EWDPropriete.PROP_ENSECONDES).opInfEgal(0) | vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_duSecMAX.getProp(EWDPropriete.PROP_ENSECONDES).opInfEgal(0)))
 {
-// 	Dépile(gPItems, gstEncours);
+// 	Dépile(gPItems, gstEncours); //on dépile le prochain exercice
 WDAPICollection.depile(vWD_gPItems,vWD_gstEncours);
 
-// 	Si gstEncours.duSec.EnSecondes = -1 OU gstEncours.duSec.EnSecondes = 0 ALORS
+// 	SI gstEncours.duSec.EnSecondes = -1 OU gstEncours.duSec.EnSecondes = 0 ALORS //Si on attend le dernier exercice
 if((vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_duSec.getProp(EWDPropriete.PROP_ENSECONDES).opEgal(-1, 0) | vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_duSec.getProp(EWDPropriete.PROP_ENSECONDES).opEgal(0, 0)))
 {
 // 		Info("Fin de la séance !");
@@ -1193,13 +1359,16 @@ WDAPIFenetre.ferme(GWDPBikeAtHome.getInstance().mWD_FEN_Entrainement);
 
 }
 
-// SI (gbPause = Faux) ALORS
+// SI (gbPause = Faux) ALORS //Si il n'y à pas de pause
 if(vWD_gbPause.opEgal(false, 0))
 {
 // 	LIB_Chrono = DuréeVersChaîne(gstEncours.duSec, "MM:SS");
 mWD_LIB_Chrono.setValeur(WDAPIDate.dureeVersChaine(vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_duSec,new WDChaineU("MM:SS")));
 
-// 	JAUGE_JaugeLCD = gstEncours.duSec.EnSecondes*100/gstEncours.duSecMAX.EnSecondes;
+// 	LIB_temps_restant = DuréeVersChaîne(gduDureeTotale, "MM:SS");
+mWD_LIB_temps_restant.setValeur(WDAPIDate.dureeVersChaine(vWD_gduDureeTotale,new WDChaineU("MM:SS")));
+
+// 	JAUGE_JaugeLCD = gstEncours.duSec.EnSecondes*100/gstEncours.duSecMAX.EnSecondes; //calcul du pourcentage de la jauge
 mWD_JAUGE_JaugeLCD.setValeur(vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_duSec.getProp(EWDPropriete.PROP_ENSECONDES).opMult(100).opDiv(vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_duSecMAX.getProp(EWDPropriete.PROP_ENSECONDES)));
 
 // 	LIB_Nom_Exercice = gstEncours.sNom;
@@ -1211,7 +1380,7 @@ mWD_LIB_Puissance.setValeur(vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_nPui
 // 	LIB_Frequence = gstEncours.nFrequence;
 mWD_LIB_Frequence.setValeur(vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_nFrequence);
 
-// 	if gstEncours.nPuissance < 200 ALORS
+// 	IF gstEncours.nPuissance < 200 ALORS
 if(vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_nPuissance.opInf(200))
 {
 // 		LIB_Nom_Exercice.Couleur = BleuClair;
@@ -1231,7 +1400,7 @@ mWD_LIB_Nom_Exercice.setProp(EWDPropriete.PROP_COULEUR,255);
 
 }
 
-// 	tmpP est une pile de STPItem = gPItems;
+// 	tmpP est une Pile de STPItem = gPItems;
 WDObjet vWD_tmpP = WDVarNonAllouee.ref;
 vWD_tmpP = new WDPile(new IWDAllocateur(){public WDObjet creerInstance(){return new GWDCSTPItem();}	public int getTypeWL() {return 36;}		public boolean isDynamique(){return false;}	public Class getClasseWD(){return GWDCSTPItem.class;}		});
 vWD_tmpP.setValeur(vWD_gPItems);
@@ -1245,10 +1414,24 @@ vWD_tmp = new GWDCSTPItem();
 // 	Dépile(tmpP,tmp)
 WDAPICollection.depile(vWD_tmpP,vWD_tmp);
 
-// 	LIB_item_suivant = tmp.sNom;
-mWD_LIB_item_suivant.setValeur(vWD_tmp.checkType(GWDCSTPItem.class).mWD_sNom);
+// 	IF (tmp.nPuissance = 0 ET tmp.nFrequence = 0) THEN
+if((vWD_tmp.checkType(GWDCSTPItem.class).mWD_nPuissance.opEgal(0, 0) & vWD_tmp.checkType(GWDCSTPItem.class).mWD_nFrequence.opEgal(0, 0)))
+{
+// 		LIB_item_suivant = "... Fin de la séance ..."
+mWD_LIB_item_suivant.setValeur("... Fin de la séance ...");
 
-// 	gstEncours.duSec.Seconde -= 1;
+}
+else
+{
+// 		LIB_item_suivant = tmp.sNom + " (" + tmp.nPuissance + "W" + ", " + tmp.nFrequence + "tr/m)";
+mWD_LIB_item_suivant.setValeur(vWD_tmp.checkType(GWDCSTPItem.class).mWD_sNom.opPlus(" (").opPlus(vWD_tmp.checkType(GWDCSTPItem.class).mWD_nPuissance).opPlus("W").opPlus(", ").opPlus(vWD_tmp.checkType(GWDCSTPItem.class).mWD_nFrequence).opPlus("tr/m)"));
+
+}
+
+// 	gduDureeTotale.Seconde -= 1;
+vWD_gduDureeTotale.opDecProp(EWDPropriete.PROP_SECONDE,new WDEntier4(1));
+
+// 	gstEncours.duSec.Seconde -= 1; //Une seconde s'est écoulée
 vWD_gstEncours.checkType(GWDCSTPItem.class).mWD_duSec.opDecProp(EWDPropriete.PROP_SECONDE,new WDEntier4(1));
 
 }
@@ -1285,7 +1468,7 @@ super.setParamBoutonGauche(true, 1, "", "");
 
 super.setParamBoutonDroit(false, 0, "", "");
 
-super.setStyleActionBar(0xFFFFFF, 0xB5513F, true);
+super.setStyleActionBar(0x0, 0xB5513F, true);
 
 super.setImageFond("");
 
@@ -1332,10 +1515,20 @@ super.ajouterVariableGlobale("gbPause",vWD_gbPause);
 // gbPause = Faux;
 vWD_gbPause.setValeur(false);
 
+// gduDureeTotale est une Durée;
+vWD_gduDureeTotale = new WDDuree();
+
+super.ajouterVariableGlobale("gduDureeTotale",vWD_gduDureeTotale);
+
+
+
+// gduDureeTotale.Seconde = 0;
+vWD_gduDureeTotale.setProp(EWDPropriete.PROP_SECONDE,0);
+
 // MaFenêtre..Titre = Session.Nom
 WDContexte.getMaFenetre().setProp(EWDPropriete.PROP_TITRE,WDAPIHF.getFichierSansCasseNiAccent("session").getRubriqueSansCasseNiAccent("nom"));
 
-// SI Session.Difficultee = 1 ALORS // la couleur change en fonction de la difficulte 
+// SI Session.Difficultee = 1 ALORS // la couleur de la barre d'état change en fonction de la difficulté de la séance
 if(WDAPIHF.getFichierSansCasseNiAccent("session").getRubriqueSansCasseNiAccent("difficultee").opEgal(1, 0))
 {
 // 	ACTB_ActionBar.CouleurFond = VertClair;
@@ -1361,7 +1554,7 @@ super.ajouterVariableGlobale("gPItems",vWD_gPItems);
 
 
 
-// HExécuteRequête(REQ_ListeIdItem,hRequêteDéfaut,id_session);
+// HExécuteRequête(REQ_ListeIdItem,hRequêteDéfaut,id_session); //récupère la liste des items 
 WDAPIHF.hExecuteRequete(WDAPIHF.getRequeteSansCasseNiAccent("req_listeiditem"),new WDEntier4(0),new WDObjet[] {vWD_id_session} );
 
 // POUR TOUT REQ_ListeIdItem 
@@ -1384,6 +1577,9 @@ vWD_i.checkType(GWDCSTPItem.class).mWD_duSec.setProp(EWDPropriete.PROP_SECONDE,W
 // 	i.duSecMAX.Seconde = REQ_ListeIdItem.Duree;
 vWD_i.checkType(GWDCSTPItem.class).mWD_duSecMAX.setProp(EWDPropriete.PROP_SECONDE,WDAPIHF.getFichierSansCasseNiAccent("req_listeiditem").getRubriqueSansCasseNiAccent("duree"));
 
+// 	gduDureeTotale.Seconde += REQ_ListeIdItem.Duree;
+vWD_gduDureeTotale.opIncProp(EWDPropriete.PROP_SECONDE,WDAPIHF.getFichierSansCasseNiAccent("req_listeiditem").getRubriqueSansCasseNiAccent("duree"));
+
 // 	i.sNom = REQ_ListeIdItem.Nom;
 vWD_i.checkType(GWDCSTPItem.class).mWD_sNom.setValeur(WDAPIHF.getFichierSansCasseNiAccent("req_listeiditem").getRubriqueSansCasseNiAccent("nom"));
 
@@ -1392,9 +1588,6 @@ vWD_i.checkType(GWDCSTPItem.class).mWD_nPuissance.setValeur(WDAPIHF.getFichierSa
 
 // 	i.nFrequence = REQ_ListeIdItem.Frequence;
 vWD_i.checkType(GWDCSTPItem.class).mWD_nFrequence.setValeur(WDAPIHF.getFichierSansCasseNiAccent("req_listeiditem").getRubriqueSansCasseNiAccent("frequence"));
-
-// 	Trace(i.sNom);
-WDAPITrace.trace(vWD_i.checkType(GWDCSTPItem.class).mWD_sNom);
 
 // 	gPItems.Empile(i);
 WDAPICollection.empile(vWD_gPItems,vWD_i);
@@ -1423,7 +1616,7 @@ vWD_gstTamp.checkType(GWDCSTPItem.class).mWD_sNom.setValeur("Fin de la séance")
 // gstTamp.duSec = -1; 
 vWD_gstTamp.checkType(GWDCSTPItem.class).mWD_duSec.setValeur(-1);
 
-// gPItems.Empile(gstTamp); //pour indiquer la fin
+// gPItems.Empile(gstTamp); 
 WDAPICollection.empile(vWD_gPItems,vWD_gstTamp);
 
 // SI (PAS HLitPremier(REQ_ListeIdItem)) ALORS
@@ -1437,7 +1630,7 @@ WDAPIFenetre.ferme(GWDPBikeAtHome.getInstance().mWD_FEN_Entrainement);
 
 }
 
-// gstEncours est un STPItem;
+// gstEncours est un STPItem; //premier élément de la pile
 vWD_gstEncours = new GWDCSTPItem();
 
 super.ajouterVariableGlobale("gstEncours",vWD_gstEncours);
@@ -1459,11 +1652,8 @@ public void init()
 {
 super.init();
 
-// ChronoDébut(1)
+// TimerSys("ChronoUpdate", 100, 1);
 
-
-// ChronoDébut(1)
-WDAPIVM.chronoDebut(1);
 
 // TimerSys("ChronoUpdate", 100, 1);
 WDAPITimer.timerSys(new WDChaineU("ChronoUpdate"),new WDEntier4(100),(long)1);
@@ -1483,6 +1673,7 @@ public void activerEcoute()
 ////////////////////////////////////////////////////////////////////////////
  public WDObjet vWD_id_session = WDVarNonAllouee.ref;
  public WDObjet vWD_gbPause = WDVarNonAllouee.ref;
+ public WDObjet vWD_gduDureeTotale = WDVarNonAllouee.ref;
  public WDObjet vWD_gPItems = WDVarNonAllouee.ref;
  public WDObjet vWD_i = WDVarNonAllouee.ref;
  public WDObjet vWD_gstTamp = WDVarNonAllouee.ref;
@@ -1503,6 +1694,8 @@ mWD_IMG_Eclair = new GWDIMG_Eclair();
 mWD_LIB_Puissance = new GWDLIB_Puissance();
 mWD_IMG_Frequence = new GWDIMG_Frequence();
 mWD_LIB_Frequence = new GWDLIB_Frequence();
+mWD_LIB_temps_restant = new GWDLIB_temps_restant();
+mWD_LIB_SansNom1 = new GWDLIB_SansNom1();
 mWD_ACTB_ActionBar = new GWDACTB_ActionBar();
 
 }
@@ -1587,6 +1780,10 @@ mWD_IMG_Frequence.initialiserObjet();
 super.ajouter("IMG_Frequence", mWD_IMG_Frequence);
 mWD_LIB_Frequence.initialiserObjet();
 super.ajouter("LIB_Frequence", mWD_LIB_Frequence);
+mWD_LIB_temps_restant.initialiserObjet();
+super.ajouter("LIB_temps_restant", mWD_LIB_temps_restant);
+mWD_LIB_SansNom1.initialiserObjet();
+super.ajouter("LIB_SansNom1", mWD_LIB_SansNom1);
 mWD_ACTB_ActionBar.initialiserObjet();
 super.ajouterActionBar(mWD_ACTB_ActionBar);
 
